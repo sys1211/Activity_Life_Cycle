@@ -1,0 +1,2 @@
+# Activity_Life_Cycle
+通过小展示分析，清晰的展示了activity跳转生命周期的过程
